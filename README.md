@@ -6,7 +6,7 @@ A WebGL 2.0 pixel art shader program. This is a basic example of techniques to c
 
 ## Try it Out
 
-You can try out the latest version on GitHub Pages here: [https://fluffyloaf254.github.io/pixel-art-shader/](https://fluffyloaf254.github.io/pixel-art-shader/)
+You can try out the latest version on GitHub Pages here: [https://polygonal-stew.github.io/pixel-art-shader/](https://polygonal-stew.github.io/pixel-art-shader/)
 
 To run the project locally:
 
